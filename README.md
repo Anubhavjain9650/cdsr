@@ -4,7 +4,7 @@
 
 > Author - Aditya Modi
 
-**_Project Progress - 25%_**
+**_Project Progress - 95%_**
 
 [Requirements](#Requirements)\
 [Contribution By Team](#How-to-Contribute-as-a-Team-Member)\
